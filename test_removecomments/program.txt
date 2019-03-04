@@ -1,0 +1,7 @@
+int main()
+{
+	//this is a test
+  int a = 10, b = 20;
+  printf("sum is :%d\n",a+b);
+  return 0;
+}

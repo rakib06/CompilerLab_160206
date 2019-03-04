@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1551724832 source:d:\#graduation\#_term 4 -1\documents 4-1\lab\compiler lab 160206\test_removecomments\main.cpp
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<iostream>
+	<string>
+	<fstream>
+	<streambuf>
+
